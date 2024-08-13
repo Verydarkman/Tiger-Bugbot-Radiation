@@ -28,12 +28,12 @@ global.region = 'kenya' // serah
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'DRAGON' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['254746764468'] // ubah aja pake nomor lu
+global.owner = ['2348120549697'] // ubah aja pake nomor lu
 //==========================zetsuboclient=======================//
-global.botname = '⫹⸙⧉DRAGON𝐃⧉⸙⫺' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.botname = '⫹⸙⧉𝙱𝙴𝙻𝙸𝙴𝚅𝙴™️⧉⸙⫺' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.packname = '⫹⸙⧉TIGER-BUGBOT-RADIATION⧉⸙⫺' // ubah aja ini nama sticker
 global.author = '༻࿇𝙰𝚁𝙻𝙾_𝙳𝚁𝙰𝙶𝙾𝙽❖༺' // ubah aja ini nama sticker
-global.prefa = ['','!','.',',','🐤','🗿']
+global.prefa = [',']
 global.sessionName = 'classicsession'  //Gausah Juga
 global.sp = '⭔' // Gausah Juga
 global.autoviewstatus = process.env.autoviewstatus || "TRUE"
